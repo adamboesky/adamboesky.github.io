@@ -5,11 +5,13 @@ import About from './components/About';
 import Research from './components/Research';
 import CV from './components/CV';
 import usePageTracking from './usePageTracking';
+import usePageTitle from './usePageTitle';
 import './App.css';
 
 function AppContent() {
     // Track page views with Google Analytics
     usePageTracking();
+    usePageTitle();
 
     return (
         <div className="app-container">

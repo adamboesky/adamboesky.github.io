@@ -37,7 +37,7 @@ const About = () => {
 
             <CollapsibleSection title="Open-source software">
                 <div className="item">
-                    <a href="https://github.com/Adam-Boesky/SPLASH" className="project-link">SPLASH</a>
+                    <a href="https://github.com/Adam-Boesky/astro_SPLASH" className="project-link">SPLASH</a>
                     <span className="sep">—</span>
                     <span>Supernova classification pipeline leveraging host galaxy properties</span>
                 </div>
@@ -52,7 +52,7 @@ const About = () => {
                     <span>Rapid binary population synthesis code</span>
                 </div>
                 <div className="item">
-                    <a href="https://github.com/Adam-Boesky/HOOTSim" className="project-link">HOOTSim</a>
+                    <a href="https://github.com/jdinovi/HOOTSim" className="project-link">HOOTSim</a>
                     <span className="sep">—</span>
                     <span>N-Body simulator</span>
                 </div>
