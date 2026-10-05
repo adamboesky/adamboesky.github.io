@@ -8,7 +8,7 @@ const About = () => {
             <Header />
 
             <section className="about-static">
-                <p className="about-bio">I am a PhD candidate in Astronomy and Astrophysics at Harvard University. My research focuses on <a href="https://astrobites.org/2022/10/30/guide-to-transient-astronomy/" target="_blank" rel="noopener noreferrer">transients</a>, with a particular emphasis on long-duration events, wide-field surveys, and compact object mergers. I am also interested in developing tools and methods for detecting and characterizing these phenomena.</p>
+                <p className="about-bio">I am a PhD student in Astronomy and Astrophysics at Harvard University. My research focuses on <a href="https://astrobites.org/2022/10/30/guide-to-transient-astronomy/" target="_blank" rel="noopener noreferrer">transients</a>, with a particular emphasis on long-duration events, wide-field surveys, and compact object mergers. I am also interested in developing tools and methods for detecting and characterizing these phenomena.</p>
                 <p className="about-bio">Other things that I spend time on are running, reading, skiing, weightlifting, and following news in aerospace engineering.</p>
             </section>
 
