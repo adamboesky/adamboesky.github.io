@@ -4,8 +4,8 @@ import { NavLink } from 'react-router-dom';
 const Navigation = () => {
     const tabs = [
         { name: 'About', path: '/' },
-        { name: 'Research', path: '/research' },
-        { name: 'CV', path: '/cv' }
+        { name: 'Research', path: '/research/' },
+        { name: 'CV', path: '/cv/' }
     ];
 
     return (
