@@ -5,7 +5,7 @@ const Header = () => {
         <header>
             <img src="/headshot.png" alt="Adam Boesky" className="headshot" />
             <h1>Adam Boesky</h1>
-            <p className="tagline">PhD Candidate, Astronomy & Astrophysics</p>
+            <p className="tagline">PhD Student, Astronomy & Astrophysics</p>
             <div className="contact-header">
                 <a href="mailto:apboesky@gmail.com">Email</a>
                 <span className="sep">·</span>
