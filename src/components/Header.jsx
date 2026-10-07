@@ -3,7 +3,7 @@ import React from 'react';
 const Header = () => {
     return (
         <header>
-            <img src="/headshot.png" alt="Adam Boesky" className="headshot" />
+            <img src="/headshot.jpg" alt="Adam Boesky" className="headshot" />
             <h1>Adam Boesky</h1>
             <p className="tagline">PhD Student, Astronomy & Astrophysics</p>
             <div className="contact-header">
